@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'pylon-icon';
+  src:  url('../fonts/pylon-icon95dc.eot?jocjan');
+  src:  url('../fonts/pylon-icon95dc.eot?jocjan#iefix') format('embedded-opentype'),
+    url('../fonts/pylon-icon95dc.ttf?jocjan') format('truetype'),
+    url('../fonts/pylon-icon95dc.woff?jocjan') format('woff'),
+    url('../fonts/pylon-icon95dc.svg?jocjan#pylon-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="pylon-icon-"], [class*=" pylon-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'pylon-icon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pylon-icon-telephone:before {
+  content: "\e90e";
+}
+.pylon-icon-call-center:before {
+  content: "\e90f";
+}
+.pylon-icon-online-payment:before {
+  content: "\e910";
+}
+.pylon-icon-buying:before {
+  content: "\e911";
+}
+.pylon-icon-internet:before {
+  content: "\e912";
+}
+.pylon-icon-investment:before {
+  content: "\e900";
+}
+.pylon-icon-strategy:before {
+  content: "\e901";
+}
+.pylon-icon-pin1:before {
+  content: "\e902";
+}
+.pylon-icon-finance:before {
+  content: "\e903";
+}
+.pylon-icon-verification:before {
+  content: "\e904";
+}
+.pylon-icon-assets:before {
+  content: "\e905";
+}
+.pylon-icon-point-of-sale:before {
+  content: "\e906";
+}
+.pylon-icon-consumer-behavior:before {
+  content: "\e907";
+}
+.pylon-icon-left-arrow:before {
+  content: "\e908";
+}
+.pylon-icon-right-arrow:before {
+  content: "\e909";
+}
+.pylon-icon-tech-support:before {
+  content: "\e90a";
+}
+.pylon-icon-clock2:before {
+  content: "\e90b";
+}
+.pylon-icon-email1:before {
+  content: "\e90c";
+}
+.pylon-icon-magnifying-glass:before {
+  content: "\e90d";
+}
