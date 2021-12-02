@@ -1,6 +1,6 @@
 
 
-## About Appliacation 
+## About Application 
 
 ## EMPLOYEE MANAGEMENT SYSYTEM (EMS)
 
